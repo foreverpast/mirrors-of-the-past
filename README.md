@@ -3,11 +3,12 @@ Small neurojam2 game on unity about alternative past of Neuro and Vedal987, was 
 Credits:
 
 Team:
-Github.com/NotNered - C# Developer/ Story-Writter
 
-@Silke4117/Silke - 2D Sprite artist/Artist
+NotNered - C# Developer/ Story-Writter
 
-soundcloud.com/asktonight Sound-Designer / Song-Writer
+@Silke4117 - 2D Sprite artist/Artist
+
+asktonight Sound-Designer / Song-Writer
 
 Used assets:
 
