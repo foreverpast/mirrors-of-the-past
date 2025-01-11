@@ -1,16 +1,16 @@
-Small neurojam2 game on unity about alternative past of Neuro and Vedal987, was inspired by neuro arg.
+## Small neurojam2 game on unity about alternative past of Neuro and Vedal987, was inspired by neuro arg.
 
-Credits:
+Ended up on <strong>108th</strong> place on overall rating.
 
-Team:
+## Team:
 
-NotNered - C# Developer/ Story-Writter
+<strong>Konstantin Nered</strong> - C# Developer / Story-Writter
 
-@Silke4117 - 2D Sprite artist/Artist
+<strong>@Silke4117</strong> - 2D Sprite artist/Graphical Artist
 
-asktonight Sound-Designer / Song-Writer
+<strong>asktonight</strong> - Sound-Designer / Song-Writer
 
-Used assets:
+## Credits:
 
 Default neuro/evil sprites - KotgeDev
 
